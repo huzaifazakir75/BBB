@@ -1,0 +1,11 @@
+C:\Users\Huzaifa.zakir\Downloads\AzureTestProject-main\RoundTheCode.AzureTestProject.Shared\bin\Debug\net6.0\RoundTheCode.AzureTestProject.Shared.deps.json
+C:\Users\Huzaifa.zakir\Downloads\AzureTestProject-main\RoundTheCode.AzureTestProject.Shared\bin\Debug\net6.0\RoundTheCode.AzureTestProject.Shared.dll
+C:\Users\Huzaifa.zakir\Downloads\AzureTestProject-main\RoundTheCode.AzureTestProject.Shared\bin\Debug\net6.0\RoundTheCode.AzureTestProject.Shared.pdb
+C:\Users\Huzaifa.zakir\Downloads\AzureTestProject-main\RoundTheCode.AzureTestProject.Shared\obj\Debug\net6.0\RoundTheCode.AzureTestProject.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huzaifa.zakir\Downloads\AzureTestProject-main\RoundTheCode.AzureTestProject.Shared\obj\Debug\net6.0\RoundTheCode.AzureTestProject.Shared.AssemblyInfoInputs.cache
+C:\Users\Huzaifa.zakir\Downloads\AzureTestProject-main\RoundTheCode.AzureTestProject.Shared\obj\Debug\net6.0\RoundTheCode.AzureTestProject.Shared.AssemblyInfo.cs
+C:\Users\Huzaifa.zakir\Downloads\AzureTestProject-main\RoundTheCode.AzureTestProject.Shared\obj\Debug\net6.0\RoundTheCode.AzureTestProject.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Huzaifa.zakir\Downloads\AzureTestProject-main\RoundTheCode.AzureTestProject.Shared\obj\Debug\net6.0\RoundTheCode.AzureTestProject.Shared.dll
+C:\Users\Huzaifa.zakir\Downloads\AzureTestProject-main\RoundTheCode.AzureTestProject.Shared\obj\Debug\net6.0\refint\RoundTheCode.AzureTestProject.Shared.dll
+C:\Users\Huzaifa.zakir\Downloads\AzureTestProject-main\RoundTheCode.AzureTestProject.Shared\obj\Debug\net6.0\RoundTheCode.AzureTestProject.Shared.pdb
+C:\Users\Huzaifa.zakir\Downloads\AzureTestProject-main\RoundTheCode.AzureTestProject.Shared\obj\Debug\net6.0\ref\RoundTheCode.AzureTestProject.Shared.dll
